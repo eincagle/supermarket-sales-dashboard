@@ -28,7 +28,7 @@ This project analyzes transactional sales data from a fictional supermarket acro
 | -------------------------------------------- | -------------------------------------------------------------------------------------- |
 | `supermarket_sales_all_queries.sql`          | SQL script with 10 business-driven analysis queries                                    |
 | `supermarket_sales.csv`                      | Original raw dataset                                                                   |
-| `supermarket_sales_cleaned.csv` _(optional)_ | Cleaned version with formatting stripped, currency parsed, and column names simplified |
+| `supermarket_sales_cleaned.csv` | Cleaned version with formatting stripped, currency parsed, and column names simplified |
 
 ## Power BI Dashboard
 
