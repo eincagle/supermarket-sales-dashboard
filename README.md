@@ -4,6 +4,8 @@
 
 This project analyzes transactional sales data from a fictional supermarket across three cities using **SQL** and **Power BI**. The goal is to extract meaningful insights about customer behavior, sales performance, and profitability trends from the raw data.
 
+![dashboard](download.png)
+
 ## Tools Used
 
 - **PostgreSQL**: SQL queries for business analysis
